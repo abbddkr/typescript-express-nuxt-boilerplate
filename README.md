@@ -1,5 +1,6 @@
+Fullstack Application Starter written with Typescript, Express, Nuxt, Typeorm (Mysql Driver). Please read steps below to run this project on your machine.
 
-### Features
+# Features
 - Basic Login/Register uses (Json web token) with Authentication Middleware
 - Simple Role Based Access Control in frontend (admin,user)
 - CRUD Posts
